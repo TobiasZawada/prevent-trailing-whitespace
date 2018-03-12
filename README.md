@@ -1,3 +1,6 @@
+# Under Construction
+Note that `prevent-trailing-whitespace` does not work well yet. Appearently the buffer modification functions also run for changes of text properties by `font-lock`. But that has to be investigated further.
+
 # prevent-trailing-whitespace
 Prevent trailing whitespace in edited region of current buffer.
 
